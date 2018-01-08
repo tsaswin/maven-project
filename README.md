@@ -1,5 +1,5 @@
 # maven-project
-Testing SCM poll
+Testing SCM poll -- 2 
 
 Source code for James Lee's Jenkins course.
 
